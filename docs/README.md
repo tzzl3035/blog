@@ -15,7 +15,7 @@ config:
       text: Meaning is Defined by Humans.
       actions:
         -
-          text: 杂项
+          text: Blog
           link: /blog/
           theme: brand
         -
