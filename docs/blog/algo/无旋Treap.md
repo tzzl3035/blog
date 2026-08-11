@@ -24,6 +24,7 @@ permalink: /algo/6vx6her4/
 - `modify` 修改操作，此处为翻转，可调
 - `out` 输出序列
 
+## 代码
 ```cpp
 #include <bits/stdc++.h>
 struct Treap {
