@@ -26,7 +26,6 @@ permalink: /algo/6vx6her4/
 
 ## 代码
 ```cpp
-#include <bits/stdc++.h>
 struct Treap {
   // changeable: maxn INF Node pushUp pushDown modify
   static constexpr int maxn = 100003;
